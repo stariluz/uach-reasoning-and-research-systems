@@ -1,0 +1,3 @@
+[submodule "uach-rrs-project"]
+	path = uach-rrs-project
+	url = https://github.com/stariluz/uach-rrs-project
